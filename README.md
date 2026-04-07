@@ -91,9 +91,9 @@ npm start
 
 ---
 
-##  Screenshots (Optional)
+##  Screenshots 
 
-*Add screenshots of your UI here to make the project more attractive.*
+Screenshots here later
 
 ---
 
@@ -117,10 +117,7 @@ This project is licensed under the MIT License.
 
 ##  Author
 
-**Shivansh Katiyar**
-
-* GitHub: https://github.com/your-username
-* LinkedIn: https://linkedin.com/in/your-profile
+Null 
 
 ---
 
@@ -130,6 +127,7 @@ This project is licensed under the MIT License.
 * Real-time collaboration
 * Multi-currency support
 * AI-based receipt error correction
+* Group chats
 
 ---
 
